@@ -12,5 +12,4 @@ int main(){
     return 0;
 }
 ```
-## 📄 Documentación completa
-Consulta la ![Logo](Documentation.docx)
+## <a href="Documentation.docx">📄 Documentación completa</a>
