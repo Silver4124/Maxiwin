@@ -1,3 +1,16 @@
-<img width="122" height="99" alt="logo" src="https://github.com/user-attachments/assets/bce3085c-af7f-48c7-996e-c4b08295b59c" />
 # Maxiwin
+![Logo](logo.png)
+
 Librería gráfica ligera y portable para C++.
+
+## 🚀 Ejemplo rápido
+```cpp
+#include "maxiwin.h"
+using namespace maxiwin;
+int main(){
+    mensaje("Hola mundo desde Maxiwin!");
+    return 0;
+}
+```
+## 📄 Documentación completa
+Consulta la ![Logo](Documentation.docx)
